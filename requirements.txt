@@ -1,0 +1,2 @@
+# Populate this file with installed packages using:
+# pip freeze > requirements.txt
