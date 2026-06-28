@@ -22,7 +22,7 @@ The project follows a complete data analysis workflow:
 
 ### Monthly Revenue Trend
 
-![Monthly Revenue](images/monthly_revenue.png)
+![Monthly Revenue](images/monthly_revenue_trend.png)
 
 ---
 
