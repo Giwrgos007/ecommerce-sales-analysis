@@ -1,4 +1,6 @@
-# E-Commerce Sales Analysis using Python
+# E-Commerce Sales Analysis
+
+Python | Pandas | Matplotlib | Jupyter Notebook | Git
 
 ## Project Overview
 
@@ -13,6 +15,26 @@ The project follows a complete data analysis workflow:
 - KPI Calculation
 - Data Visualization
 - Cleaned Dataset Export
+
+---
+
+## Dashboard Preview
+
+### Monthly Revenue Trend
+
+![Monthly Revenue](images/monthly_revenue.png)
+
+---
+
+### Top 10 Cities by Sales
+
+![Top Cities](images/top10_cities_by_total_sales_revenue.png)
+
+---
+
+### Profit by Category
+
+![Category Profit](images/category_profit.png)
 
 ---
 
