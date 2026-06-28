@@ -67,6 +67,16 @@ The project follows a complete data analysis workflow:
 
 ---
 
+## Key Results
+
+- Total Revenue: $2.30M
+- Total Profit: $286K
+- Profit Margin: 12.47%
+- Technology was the most profitable category.
+- New York City generated the highest revenue.
+  
+---
+
 ## Project Structure
 
 ```text
